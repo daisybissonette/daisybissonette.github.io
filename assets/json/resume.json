@@ -1,200 +1,309 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daisy Bissonette",
+    "label": "Ph.D. Candidate in Astronomy & Astrophysics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dbissonette@uchicago.edu",
+    "url": "https://daisybissonette.github.io/",
+    "summary": "Graduate researcher studying stellar metallicities and dwarf galaxies through spectroscopic analysis to understand early galaxy formation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Chicago",
+      "region": "Illinois",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "daisybissonette",
+        "url": "https://www.linkedin.com/in/daisybissonette"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Chicago",
+      "location": "Chicago, IL",
+      "url": "https://astro.uchicago.edu/",
+      "area": "Astronomy & Astrophysics",
+      "studyType": "Ph.D. Candidate",
+      "startDate": "2023",
+      "score": "",
+      "courses": [],
+      "summary": "Research on stellar metallicities in the ultra-faint dwarf galaxy Segue 1 using LRIS spectroscopy, advised by Prof. Alexander Ji."
+    },
+    {
+      "institution": "Princeton University",
+      "location": "Princeton, NJ",
+      "url": "https://astrophysics.princeton.edu/",
+      "area": "Astrophysical Sciences",
+      "studyType": "A.B. with Honors",
+      "startDate": "2019",
+      "endDate": "2023",
+      "summary": "Senior thesis with Prof. Jenny Greene on the initial mass function of early-type galaxies using MASSIVE Survey and ALMA data."
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Scientific Interests",
+      "icon": "fa-solid fa-star",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Stellar Spectroscopy",
+        "Dwarf Galaxies",
+        "Near-Field Cosmology"
       ]
     }
   ],
-  "references": [
+
+  "awards": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "title": "McCormick Fellowship",
+      "date": "2023–2028",
+      "awarder": "University of Chicago",
+      "icon": "fa-solid fa-award"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "title": "Chambliss Astronomy Achievement Award (Honorable Mention)",
+      "date": "2023",
+      "awarder": "American Astronomical Society",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "title": "Class of 1991 Foundation Scholarship",
+      "date": "2022",
+      "awarder": "Princeton University",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "title": "Service Focus Winter Grant: Educational Equity",
+      "date": "2021",
+      "awarder": "Princeton University",
+      "icon": "fa-solid fa-hands-holding-circle"
+    },
+    {
+      "title": "John C. Bogle ’51 Fellowship",
+      "date": "2020",
+      "awarder": "Princeton University",
+      "icon": "fa-solid fa-medal"
+    },
+    {
+      "title": "SIFP Summer Math Fellowship",
+      "date": "2020",
+      "awarder": "Princeton University",
+      "icon": "fa-solid fa-book"
+    },
+    {
+      "title": "Evergreen STEM Scholarship",
+      "date": "2020",
+      "awarder": "Evergreen Foundation",
+      "icon": "fa-solid fa-leaf"
     }
   ],
+
+  "work": [
+    {
+      "name": "University of Chicago",
+      "position": "Graduate Research Assistant",
+      "url": "https://astro.uchicago.edu/",
+      "startDate": "2023",
+      "summary": "Advised by Prof. Alexander Ji. Analyzing stellar spectra from LRIS to determine metallicities in the dwarf galaxy Segue 1."
+    },
+    {
+      "name": "Princeton University",
+      "position": "Senior Thesis Researcher",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Worked with Prof. Jenny Greene on IMF measurements in early-type galaxies using MASSIVE Survey and ALMA data."
+    },
+    {
+      "name": "Cardiff University",
+      "position": "Research Intern (IIP Program)",
+      "startDate": "2022",
+      "summary": "Advised by Dr. Timothy Davis. Determined star formation efficiencies in galaxies using ALMA CO(1–0) emission data."
+    },
+    {
+      "name": "Princeton University",
+      "position": "Junior Independent Researcher",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Studied x-ray variability near SgrA* using NICER data with Prof. Murchikova and Prof. Bahcall."
+    },
+    {
+      "name": "NuMED for Children, Inc.",
+      "position": "Research and Development Intern",
+      "startDate": "2020",
+      "summary": "Contributed to pediatric cardiac stent design development; device received FDA approval in 2021."
+    }
+  ],
+
+
+  "publications": [],
+
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Metallicity Distribution Function of Segue 1",
+      "summary": "Spectroscopic study of the smallest confirmed dwarf galaxy using LRIS to measure metallicity distribution and chemical evolution.",
+      "highlights": ["LRIS data reduction", "Gaussian model fitting", "Stellar metallicities"],
+      "startDate": "2023",
+      "url": ""
+    }
+  ],
+  
+  "volunteer": [
+    {
+      "organization": "Chicago Public Library",
+      "position": "Lifelong Learning Talk",
+      "url": "https://www.chipublib.org/",
+      "date": "2023",
+      "summary": "Presented an interactive talk on spectroscopy in astronomy for senior citizens at Blackstone Public Library.",
+      "icon": "fa-solid fa-chalkboard-user"
+    },
+    {
+      "organization": "Community Engagement Working Group, UChicago Astrophysics",
+      "position": "Member",
+      "startDate": "2023",
+      "summary": "Organized outreach events including the South Side Science Festival and Astronomy Art Contest. Led DEI workshops and code of conduct initiatives.",
+      "icon": "fa-solid fa-people-group"
+    },
+    {
+      "organization": "PhET Simulations DEIB Advisory Board",
+      "position": "Advisory Board Member",
+      "url": "https://phet.colorado.edu/en/deib-in-stem-ed/advisors",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Advised on inclusive STEM education frameworks at the University of Colorado Boulder.",
+      "icon": "fa-solid fa-handshake-angle"
+    },
+    {
+      "organization": "Conference for Undergraduate Women in Physics (CUWiP)",
+      "position": "Local Organizing Committee",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Recruited speakers, secured funding, and developed inclusivity training for organizers.",
+      "icon": "fa-solid fa-venus"
+    },
+    {
+      "organization": "Council on Science and Technology (CST) Student Advisory Board",
+      "position": "Board Member",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Planned outreach events to promote STEM literacy and engagement across Princeton’s campus.",
+      "icon": "fa-solid fa-flask"
+    }
+  ],
+
+  "certificates": [],
+
+  "skills": [
+    {
+      "name": "Research & Analysis",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "Spectroscopy",
+        "Metallicity Measurement",
+        "Stellar Populations",
+        "Observational Astronomy",
+        "Data Reduction"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "NumPy",
+        "Astropy",
+        "Matplotlib",
+        "Git",
+        "LaTeX",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Communication & Teaching",
+      "icon": "fa-solid fa-comments",
+      "keywords": [
+        "Teaching Assistantship",
+        "Science Outreach",
+        "Public Speaking"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational",
+      "icon": "fa-solid fa-language"
+    }
+  ],
+
+  "talks": [
+    {
+      "name": "Dwarf Galaxies II: Galactic Frontiers Conference",
+      "date": "June 2025",
+      "location": "Dartmouth College, Hanover, NH",
+      "type": "Poster"
+    },
+    {
+      "name": "Small Galaxies, Cosmic Questions II",
+      "date": "August 2024",
+      "location": "Durham, UK",
+      "type": "Poster"
+    },
+    {
+      "name": "Dwarf Galaxies, Streams, and Cluster Science",
+      "date": "July 2024",
+      "location": "University of Chicago, Chicago, IL",
+      "type": "Poster"
+    },
+    {
+      "name": "First Stars VII Conference",
+      "date": "May 2024",
+      "location": "New York, NY",
+      "type": "Flash Talk"
+    },
+    {
+      "name": "241st AAS Meeting",
+      "date": "January 2023",
+      "location": "Seattle, WA",
+      "type": "Poster"
+    },
+    {
+      "name": "IIP Research Symposium",
+      "date": "August 2022",
+      "location": "Princeton University, NJ",
+      "type": "Poster"
+    },
+    {
+      "name": "Summer Star Formation Meeting",
+      "date": "July 2022",
+      "location": "Cardiff University, UK",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "Junior Paper Research Symposium",
+      "date": "May 2022",
+      "location": "Princeton University, NJ",
+      "type": "Talk"
+    },
+    {
+      "name": "Conference for Undergraduate Women in Physics",
+      "date": "January 2022",
+      "location": "Rutgers University (Virtual)",
+      "type": "Poster"
+    },
+    {
+      "name": "USRP Astrophysics Summer Research Symposium",
+      "date": "August 2021",
+      "location": "Princeton University, NJ",
+      "type": "Talk"
     }
   ]
 }
