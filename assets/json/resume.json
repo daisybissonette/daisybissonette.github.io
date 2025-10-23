@@ -115,7 +115,7 @@
     // }
   ],
 
-   "work": [
+  "work": [
     {
       "name": "University of Chicago",
       "position": "Graduate Research Assistant",
@@ -153,6 +153,37 @@
 
   "talks": [
     {
+      "name": "First Stars VII Conference",
+      "date": "May 2024",
+      "sortDate": "2024-05",
+      "location": "New York, NY",
+      "type": "Flash Talk"
+    },
+    {
+      "name": "Summer Star Formation Meeting",
+      "date": "July 2022",
+      "sortDate": "2022-07",
+      "location": "Cardiff University, UK",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "Junior Paper Research Symposium",
+      "date": "May 2022",
+      "sortDate": "2022-05",
+      "location": "Princeton University, NJ",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "USRP Astrophysics Summer Research Symposium",
+      "date": "August 2021",
+      "sortDate": "2021-08",
+      "location": "Princeton University, NJ",
+      "type": "Contributed Talk"
+    }
+  ],
+
+  "posters": [
+    {
       "name": "Galactic Frontiers II",
       "date": "June 2025",
       "sortDate": "2025-06",
@@ -174,13 +205,6 @@
       "type": "Poster"
     },
     {
-      "name": "First Stars VII Conference",
-      "date": "May 2024",
-      "sortDate": "2024-05",
-      "location": "New York, NY",
-      "type": "Flash Talk"
-    },
-    {
       "name": "241st AAS Meeting",
       "date": "January 2023",
       "sortDate": "2023-01",
@@ -195,36 +219,15 @@
       "type": "Poster"
     },
     {
-      "name": "Summer Star Formation Meeting",
-      "date": "July 2022",
-      "sortDate": "2022-07",
-      "location": "Cardiff University, UK",
-      "type": "Contributed Talk"
-    },
-    {
-      "name": "Junior Paper Research Symposium",
-      "date": "May 2022",
-      "sortDate": "2022-05",
-      "location": "Princeton University, NJ",
-      "type": "Talk"
-    },
-    {
       "name": "Conference for Undergraduate Women in Physics",
       "date": "January 2022",
       "sortDate": "2022-01",
       "location": "Rutgers University (Virtual)",
       "type": "Poster"
-    },
-    {
-      "name": "USRP Astrophysics Summer Research Symposium",
-      "date": "August 2021",
-      "sortDate": "2021-08",
-      "location": "Princeton University, NJ",
-      "type": "Talk"
     }
   ],
 
-   "observing": [
+  "observing": [
     {
       "facility": "Keck LRIS",
       "nights": "3 Nights"
