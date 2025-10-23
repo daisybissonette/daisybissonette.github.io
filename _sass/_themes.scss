@@ -78,15 +78,15 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #0d1a0d; /* dark forest green */
-  --global-code-bg-color: #1a2b1a; /* muted greenish-black */
-  --global-text-color: #d2e8d2; /* light sage text */
+  --global-bg-color: #000000; /* dark forest green */
+  --global-code-bg-color: #172317; /* muted greenish-black */
+  --global-text-color: #ffffff; /* light sage text */
   --global-text-color-light: #9cc79c; /* softer green text */
   --global-theme-color: #5fd36a; /* bright green accent */
   --global-hover-color: #84f084; /* mint hover */
   --global-hover-text-color: #0d1a0d;
   --global-footer-bg-color: #1a2b1a; /* darker footer */
-  --global-footer-text-color: #d2e8d2;
+  --global-footer-text-color: #ffffff;
   --global-footer-link-color: #b8e6b8;
   --global-distill-app-color: #7acb7a;
   --global-divider-color: #2d4b2d;
