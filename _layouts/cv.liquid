@@ -52,6 +52,7 @@ layout: default
       </div>
     </article>
   </div>
+
 {% else %}
   <div class="post">
     <header class="post-header">
@@ -99,6 +100,8 @@ layout: default
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
+                {% when 'observing' %}
+                  {% include resume/observing.liquid %}
                 {% when 'talks' %}
                   {% include resume/talks.liquid %}
                 {% when 'projects' %}

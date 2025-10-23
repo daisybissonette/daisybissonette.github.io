@@ -1,14 +1,38 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign work = data[1] | sort: 'startDate' | reverse %}
-  {% for content in work %}
+  {%- comment -%}
+  Build a numeric sort_year (from endDate, startDate, or date string).
+  Force descending sort so that newer years (e.g. 2025) appear first.
+  {%- endcomment -%}
+
+  {% assign work = data[1] %}
+  {% assign sorted = "" | split: "" %}
+
+  {% for item in work %}
+    {% assign year = 0 %}
+    {% if item.endDate %}
+      {% assign year = item.endDate | slice: 0, 4 | plus: 0 %}
+    {% elsif item.startDate %}
+      {% assign year = item.startDate | slice: 0, 4 | plus: 0 %}
+    {% elsif item.date %}
+      {% assign year_str = item.date | regex_replace: '[^0-9]', '' %}
+      {% assign year = year_str | slice: 0, 4 | plus: 0 %}
+    {% endif %}
+    {% assign item = item | merge: { "sort_year": year } %}
+    {% assign sorted = sorted | push: item %}
+  {% endfor %}
+
+  {%- assign work_sorted = sorted | sort: "sort_year" -%}
+
+  {% for content in work_sorted %}
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.startDate %}
+          {% if content.date %}
+            {%- assign date = content.date -%}
+          {% elsif content.startDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
+            {% assign date = startDate | append: ' - ' | append: endDate %}
           {% else %}
             {% assign date = '' %}
           {% endif %}
