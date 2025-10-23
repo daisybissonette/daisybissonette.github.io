@@ -230,7 +230,11 @@
   "observing": [
     {
       "facility": "Keck LRIS",
-      "nights": "3 Nights"
+      "nights": "3"
+    },
+    {
+      "facility": "MIKE",
+      "nights": "2"
     }
   ],
 
@@ -239,7 +243,7 @@
       "organization": "Chicago Public Library",
       "position": "Lifelong Learning Talk",
       "url": "https://www.chipublib.org/",
-      "date": "2023",
+      "date": "November 2023",
       "summary": "Presented an interactive talk on spectroscopy in astronomy for senior citizens at Blackstone Public Library.",
       "icon": "fa-solid fa-chalkboard-user"
     },

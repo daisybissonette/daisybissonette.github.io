@@ -1,22 +1,36 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign volunteer = data[1] | sort: 'startDate' | reverse %}
-  {% for content in volunteer %}
+  {% assign volunteer = data[1] | sort: 'endDate' | reverse %}
+  {% assign present_items = volunteer | where_exp: "item", "item.endDate == nil or item.endDate == '' or item.endDate == 'Present'" %}
+  {% assign dated_items = volunteer | where_exp: "item", "item.endDate != nil and item.endDate != '' and item.endDate != 'Present'" %}
+
+  {%- comment -%}
+  Combine lists: present items first, then all others
+  {%- endcomment -%}
+  {% assign combined = present_items | concat: dated_items %}
+
+  {% for content in combined %}
     <li class="list-group-item">
       <div class="row">
+
+        <!-- LEFT COLUMN -->
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.startDate %}
+          {% if content.startDate or content.endDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
+            {% assign date = startDate | append: ' - ' | append: endDate %}
+          {% elsif content.date %}
+            {% assign date = content.date %}
           {% else %}
             {% assign date = '' %}
           {% endif %}
+
           <table class="table-cv">
             <tbody>
               <tr>
                 <td>
-                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                    {{ date }}
+                  </span>
                 </td>
               </tr>
               {% if content.location %}
@@ -32,20 +46,34 @@
             </tbody>
           </table>
         </div>
+
+        <!-- RIGHT COLUMN -->
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
-            <a href="{{ content.url }}">{{ content.position }}</a>
+            {% if content.url %}
+              <a href="{{ content.url }}">{{ content.organization }}</a>
+            {% else %}
+              {{ content.organization }}
+            {% endif %}
           </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.organization }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
-          <ul class="items">
-            {% for item in content.highlights %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+
+          {% if content.position %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{ content.position }}</h6>
+          {% endif %}
+
+          {% if content.summary %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic;">{{ content.summary }}</h6>
+          {% endif %}
+
+          {% if content.highlights %}
+            <ul class="items">
+              {% for item in content.highlights %}
+                <li><span class="item">{{ item }}</span></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         </div>
+
       </div>
     </li>
   {% endfor %}
