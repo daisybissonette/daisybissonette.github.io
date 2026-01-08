@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Home -->
   <url>
     <loc>https://daisybissonette.github.io/</loc>
   </url>
+
+  <!-- Core pages -->
   <url>
     <loc>https://daisybissonette.github.io/research/</loc>
   </url>
+
+  <url>
+    <loc>https://daisybissonette.github.io/publications/</loc>
+  </url>
+
+  <url>
+    <loc>https://daisybissonette.github.io/teaching/</loc>
+  </url>
+
+  <url>
+    <loc>https://daisybissonette.github.io/talks/</loc>
+  </url>
+
+  <url>
+    <loc>https://daisybissonette.github.io/outreach/</loc>
+  </url>
+
+  <url>
+    <loc>https://daisybissonette.github.io/cv/</loc>
+  </url>
+
+  <!-- Blog / posts -->
+  <url>
+    <loc>https://daisybissonette.github.io/blog/</loc>
+  </url>
+
+  <!-- Tags & archives (useful for discovery) -->
+  <url>
+    <loc>https://daisybissonette.github.io/tags/</loc>
+  </url>
+
+  <url>
+    <loc>https://daisybissonette.github.io/categories/</loc>
+  </url>
+
+  <!-- Files (optional but OK to include) -->
+  <url>
+    <loc>https://daisybissonette.github.io/files/cv.pdf</loc>
+  </url>
+
 </urlset>
