@@ -27,11 +27,11 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Originally from Upstate New York near the Canadian border, I am a Ph.D. candidate in the Department of Astronomy and Astrophysics at the University of Chicago. I completed my A.B. in Astrophysical Sciences with honors at Princeton University in 2023.
+Originally from Upstate New York, I am a Ph.D. candidate in the Department of Astronomy and Astrophysics at the University of Chicago, advised by Prof. Alexander Ji. I completed my A.B. in Astrophysical Sciences with honors at Princeton University in 2023.
 
-My research focuses on measuring stellar metallicities in the faintest dwarf galaxies, using low-to-medium resolution spectroscopic observations to understand the earliest phases of galaxy formation. I currently am advised by Prof. Alexander Ji at UChicago.
+My research focuses on measuring stellar metallicities in the faintest known dwarf galaxies using low-to-medium resolution spectroscopy, with the goal of understanding the earliest phases of galaxy formation and chemical enrichment.
 
-Outside of research, I love kayaking, running, and watercolor painting. 
+Outside of research, I love kayaking, running, and watercolor painting.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
