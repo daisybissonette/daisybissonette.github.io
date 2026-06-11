@@ -7,14 +7,17 @@ nav: false
 display_categories: [work, fun]
 ---
 
+<!--
 <p>
   This page collects resources I wish I'd known about in high school — scholarships, free campus visit programs, summer research opportunities, free learning tools, and competitions. I grew up in Upstate New York, so I've tried to include NY-specific options alongside national programs. This is a living list; if you know of something I've missed, feel free to reach out.
 </p>
+-->
 
 <hr>
 
 <h2>1. Scholarship Resources</h2>
 
+<!--
 <p>Scholarships can come from your state, local community foundations, national foundations, and STEM-specific organizations. Start local — local scholarships often have fewer applicants and are worth applying for even if the award is smaller.</p>
 
 <h3>New York State / Local</h3>
@@ -37,10 +40,10 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://www.cfcny.org/" target="_blank">Community Foundation of Central New York</a></strong> —
-    Offers many local scholarships for students in Central/Upstate NY. Worth checking their scholarship portal each fall. <!-- TODO: verify scholarship portal URL -->
+    Offers many local scholarships for students in Central/Upstate NY. Worth checking their scholarship portal each fall.
   </li>
   <li>
-    <strong><a href="#" target="_blank">Your county's community foundation or local Rotary club</a></strong> <!-- TODO: add link -->
+    <strong><a href="#" target="_blank">Your county's community foundation or local Rotary club</a></strong>
     — Nearly every county in NYS has a community foundation or civic organization that offers scholarships. Google "[your county] community foundation scholarship" — these are often low-competition.
   </li>
   <li>
@@ -48,7 +51,7 @@ display_categories: [work, fun]
     The Educational Opportunity Program (at SUNY) and Higher Education Opportunity Program (at private colleges) provide financial support and academic services for first-gen and low-income NY students.
   </li>
   <li>
-    <strong><a href="#" target="_blank">Your high school guidance counselor's scholarship list</a></strong> <!-- TODO: placeholder -->
+    <strong><a href="#" target="_blank">Your high school guidance counselor's scholarship list</a></strong>
     — Many local scholarships are only announced through guidance offices. Ask your counselor for a list of everything available to seniors in your school or district.
   </li>
 </ul>
@@ -88,11 +91,13 @@ display_categories: [work, fun]
     America's oldest and most prestigious science and math competition for high school seniors, with scholarships up to $250,000. See also the Competitions section below.
   </li>
 </ul>
+-->
 
 <hr>
 
 <h2>2. Fly-In / Fly-Out Programs</h2>
 
+<!--
 <p>
   Fly-in programs are <strong>free campus visit experiences</strong> for prospective applicants who are first-generation college students, low-income, or from underrepresented groups. The college pays for your travel, housing, and meals. These are a fantastic way to see campuses you might not otherwise be able to visit, and they can substantially strengthen your application. Apply as early as possible — many programs have rolling deadlines in fall of junior or senior year.
 </p>
@@ -108,14 +113,14 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://admissions.yale.edu/bulldog-days-prospective" target="_blank">Yale FSAP (First-Year Scholars at Yale Preview)</a></strong> —
-    Yale's fly-in for first-gen and low-income prospective students. <!-- TODO: confirm current URL -->
+    Yale's fly-in for first-gen and low-income prospective students.
   </li>
   <li>
     <strong><a href="https://mitadmissions.org/apply/visit/preview/" target="_blank">MIT SPARK</a></strong> —
     MIT's fall fly-in program for students from underrepresented and underserved backgrounds.
   </li>
   <li>
-    <strong><a href="https://www.collegesinchicago.com/" target="_blank">Colleges That Change Lives (CTCL)</a></strong> — <!-- TODO: find individual fly-in links -->
+    <strong><a href="https://www.collegesinchicago.com/" target="_blank">Colleges That Change Lives (CTCL)</a></strong> —
     Many CTCL member schools (e.g., Beloit, Allegheny, Wooster) run their own fly-in programs. Check individual school sites.
   </li>
   <li>
@@ -123,7 +128,7 @@ display_categories: [work, fun]
     Free visit program for prospective students from underrepresented communities.
   </li>
   <li>
-    <strong><a href="#" target="_blank">UChicago Metcalf Scholars / Collegiate Scholars</a></strong> <!-- TODO: add link -->
+    <strong><a href="#" target="_blank">UChicago Metcalf Scholars / Collegiate Scholars</a></strong>
     — The University of Chicago runs several fly-in and preview programs; check their admissions site under "Visit."
   </li>
   <li>
@@ -147,15 +152,17 @@ display_categories: [work, fun]
     Caltech's fall fly-in experience for underrepresented high school seniors.
   </li>
   <li>
-    <strong><a href="#" target="_blank">School-specific fly-in programs</a></strong> <!-- TODO: placeholder -->
+    <strong><a href="#" target="_blank">School-specific fly-in programs</a></strong>
     — Most highly selective schools have at least one fly-in program. Google "[school name] fly-in program" or "[school name] first-generation visit" to find them.
   </li>
 </ul>
+-->
 
 <hr>
 
 <h2>3. Summer Research &amp; STEM Programs</h2>
 
+<!--
 <p>
   These programs offer hands-on research experience, rigorous coursework, or both — often for free or with a stipend. Competition is intense for the most selective programs, but there are opportunities at many levels. Apply to a mix of reach and likely programs.
 </p>
@@ -171,16 +178,8 @@ display_categories: [work, fun]
     Seven-week paid summer research program at Brookhaven (Long Island, NY) for high school students in STEM.
   </li>
   <li>
-    <strong><a href="https://www.cosmosny.org/" target="_blank">COSMOS (California-style, but Cornell has one)</a></strong> <!-- TODO: verify Cornell COSMOS URL -->
-    — Intensive residential STEM program. California runs COSMOS at UC campuses; check if Cornell or other NY institutions run similar programs.
-  </li>
-  <li>
-    <strong><a href="https://curie.uchicago.edu/" target="_blank">Collegiate Scholars Program</a></strong> <!-- TODO: this is a Chicago program; add NY-specific alternative -->
-    — If you're in NYC, NYC programs like those through CUNY or Columbia's community outreach are worth researching. <!-- TODO: add specific NYC program links -->
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">Local college and university summer programs</a></strong> <!-- TODO: placeholder -->
-    — Many NY colleges (Cornell, RPI, Clarkson, etc.) run summer programs for high schoolers. Check admissions and outreach pages at schools near you.
+    <strong><a href="#" target="_blank">Cornell / RPI / Clarkson summer programs</a></strong>
+    — Many NY colleges run summer programs for high schoolers. Check admissions and outreach pages at schools near you.
   </li>
 </ul>
 
@@ -192,15 +191,11 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://primes.mit.edu/" target="_blank">MIT PRIMES</a></strong> —
-    Year-long math and computer science research program for high schoolers, run by MIT. Culminates at a research conference. Also has a reading program (PRIMES Circle).
+    Year-long math and computer science research program for high schoolers, run by MIT. Culminates at a research conference.
   </li>
   <li>
     <strong><a href="https://summerscience.org/" target="_blank">Summer Science Program (SSP)</a></strong> —
     Five-week residential program in astrophysics (or biochemistry or genomics). Students determine the orbit of an asteroid using real telescope data. Need-blind admissions and generous financial aid.
-  </li>
-  <li>
-    <strong><a href="https://www.stonybrook.edu/simons/" target="_blank">Simons Summer Research (national component)</a></strong> —
-    See above; also note that the Simons Foundation funds other STEM opportunities worth exploring on their website.
   </li>
   <li>
     <strong><a href="https://garcia.stonybrook.edu/" target="_blank">Garcia Research Scholar Program (Stony Brook)</a></strong> —
@@ -208,7 +203,7 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://www.nasa.gov/learning-resources/internship-programs/" target="_blank">NASA Internship Programs</a></strong> —
-    NASA offers various summer internship opportunities; eligibility varies. Check the NASA OSTEM (Office of STEM Engagement) site for high school options.
+    NASA offers various summer internship opportunities; eligibility varies. Check the NASA OSTEM site for high school options.
   </li>
   <li>
     <strong><a href="https://www.pathwaystoscience.org/programs.aspx?u=HighSchool_High+School+Student&submit=y" target="_blank">Pathways to Science: HS Program Database</a></strong> —
@@ -223,30 +218,32 @@ display_categories: [work, fun]
     Six-week number theory residential program at Boston University. Generous financial aid; free for families earning under a certain threshold.
   </li>
   <li>
-    <strong><a href="https://hsp.mit.edu/" target="_blank">MIT Minority Introduction to Engineering and Science (MITES)</a></strong> —
+    <strong><a href="https://hsp.mit.edu/" target="_blank">MIT MITES (Minority Introduction to Engineering and Science)</a></strong> —
     Free six-week STEM program at MIT for rising seniors from underrepresented groups. Highly selective and highly regarded.
   </li>
 </ul>
+-->
 
 <hr>
 
 <h2>4. Free Textbooks &amp; Learning Resources</h2>
 
+<!--
 <p>You don't need to buy expensive textbooks to learn advanced material. Here are some excellent free resources.</p>
 
 <h3>General Learning Platforms</h3>
 <ul>
   <li>
     <strong><a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a></strong> —
-    Free courses in math, science, computing, and more, from middle school through college level. Excellent for filling gaps and self-pacing.
+    Free courses in math, science, computing, and more, from middle school through college level.
   </li>
   <li>
     <strong><a href="https://ocw.mit.edu/" target="_blank">MIT OpenCourseWare</a></strong> —
-    Free lecture notes, problem sets, and exams from MIT courses across every subject. Great for going beyond what's taught in high school.
+    Free lecture notes, problem sets, and exams from MIT courses across every subject.
   </li>
   <li>
     <strong><a href="https://www.coursera.org/" target="_blank">Coursera</a></strong> —
-    Online courses from universities worldwide. Many courses are free to audit; financial aid is available for certificates.
+    Online courses from universities worldwide. Many courses are free to audit.
   </li>
   <li>
     <strong><a href="https://www.edx.org/" target="_blank">edX</a></strong> —
@@ -254,7 +251,7 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://brilliant.org/" target="_blank">Brilliant.org</a></strong> —
-    Interactive math, science, and CS courses. Some free content; subscription for full access. Good for competition prep and deep understanding.
+    Interactive math, science, and CS courses. Good for competition prep and deep understanding.
   </li>
 </ul>
 
@@ -286,44 +283,46 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://www.skyandtelescope.org/" target="_blank">Sky &amp; Telescope</a></strong> —
-    Excellent resource for observing guides, news in astronomy, and beginner-friendly explanations of recent discoveries.
+    Observing guides, news in astronomy, and beginner-friendly explanations of recent discoveries.
   </li>
   <li>
     <strong><a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA Astronomy Picture of the Day (APOD)</a></strong> —
-    A new astronomy image every day with an explanation written by professional astronomers. Great for curiosity and context.
+    A new astronomy image every day with an explanation written by professional astronomers.
   </li>
   <li>
     <strong><a href="https://stellarium.org/" target="_blank">Stellarium (free planetarium software)</a></strong> —
-    Free, open-source planetarium for your desktop or browser. Explore the sky from anywhere on Earth.
+    Free, open-source planetarium for your desktop or browser.
   </li>
 </ul>
+-->
 
 <hr>
 
 <h2>5. Science Olympiad, Olympiads &amp; Competitions</h2>
 
+<!--
 <p>Competitions are a great way to learn, meet peers who share your interests, and build a portfolio for college applications. Many have no entry fee.</p>
 
 <ul>
   <li>
     <strong><a href="https://www.soinc.org/" target="_blank">Science Olympiad</a></strong> —
-    Team-based competition with 23 events spanning biology, chemistry, physics, earth science, engineering, and more. Competitions run at invitational, regional, state, and national levels.
+    Team-based competition with 23 events spanning biology, chemistry, physics, earth science, engineering, and more.
   </li>
   <li>
     <strong><a href="https://www.usaaao.org/" target="_blank">US Astronomy and Astrophysics Olympiad (USAAAO)</a></strong> —
     National astronomy competition; top performers represent the US at the International Olympiad on Astronomy and Astrophysics (IOAA).
   </li>
   <li>
-    <strong><a href="https://www.ioaa2024.org/" target="_blank">International Olympiad on Astronomy and Astrophysics (IOAA)</a></strong> <!-- TODO: update to current year's URL -->
-    — Annual international competition for high school students in astronomy and astrophysics.
+    <strong><a href="#" target="_blank">International Olympiad on Astronomy and Astrophysics (IOAA)</a></strong> —
+    Annual international competition for high school students in astronomy and astrophysics.
   </li>
   <li>
     <strong><a href="https://sciencebowl.org/" target="_blank">DOE National Science Bowl</a></strong> —
-    Fast-paced question-and-answer competition in science and math, run by the US Department of Energy. Regional competitions lead to a national tournament in Washington, DC.
+    Fast-paced question-and-answer competition in science and math, run by the US Department of Energy.
   </li>
   <li>
     <strong><a href="https://student.societyforscience.org/regeneron-sts" target="_blank">Regeneron Science Talent Search (STS)</a></strong> —
-    The nation's oldest and most prestigious pre-college science competition. Submit an original research project as a senior; top 40 finalists compete in Washington, DC for awards up to $250,000.
+    The nation's oldest and most prestigious pre-college science competition. Submit an original research project as a senior.
   </li>
   <li>
     <strong><a href="https://student.societyforscience.org/regeneron-isef" target="_blank">Regeneron ISEF (International Science and Engineering Fair)</a></strong> —
@@ -331,18 +330,19 @@ display_categories: [work, fun]
   </li>
   <li>
     <strong><a href="https://www.maa.org/math-competitions" target="_blank">AMC / AIME / USAMO (Math competitions)</a></strong> —
-    The Mathematical Association of America runs a ladder of math competitions: AMC 8/10/12 → AIME → USAMO. Top scorers qualify for the US Math Olympiad team.
+    The Mathematical Association of America runs a ladder of math competitions leading to the US Math Olympiad team.
   </li>
   <li>
-    <strong><a href="https://www.hpcalc.org/physics/" target="_blank">F=ma / US Physics Olympiad (USAPhO)</a></strong> <!-- TODO: update URL -->
-    — The American Association of Physics Teachers runs a competition leading to the US Physics Olympiad team and the IPhO (International Physics Olympiad).
+    <strong><a href="#" target="_blank">F=ma / US Physics Olympiad (USAPhO)</a></strong> —
+    The American Association of Physics Teachers runs a competition leading to the US Physics Olympiad team and the IPhO.
   </li>
   <li>
     <strong><a href="https://www.usabo-trc.org/" target="_blank">USA Biology Olympiad (USABO)</a></strong> —
-    National biology competition with semifinals and finals; top students represent the US at the International Biology Olympiad.
+    National biology competition; top students represent the US at the International Biology Olympiad.
   </li>
   <li>
     <strong><a href="https://www.usnco.org/" target="_blank">US National Chemistry Olympiad (USNCO)</a></strong> —
-    National chemistry competition run by the American Chemical Society, leading to the International Chemistry Olympiad.
+    National chemistry competition run by the American Chemical Society.
   </li>
 </ul>
+-->
