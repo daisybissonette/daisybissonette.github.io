@@ -91,6 +91,13 @@
         - Description 1.
         - Description 2.
 
+- title: Publications
+  type: list
+  contents:
+    - "Bissonette, D., Ji, A. P., Simon, J. D., Bland-Hawthorn, J., Chiti, A., Geha, M., Li, T. S., Frebel, A., & Luna, A. M. (2026). The Metallicity Distribution of the Ultra-Faint Dwarf Galaxy Segue 1. <i>arXiv:2605.12810</i>. <a href='https://arxiv.org/abs/2605.12810'>arXiv</a>"
+    - "Cerny, W., Bissonette, D., Ji, A. P., Geha, M., Chiti, A., Smith, S. E. T., Simon, J. D., Pace, A. B., Kirby, E. N., Venn, K. A., Li, T. S., & Luna, A. M. (2026). No Observational Evidence for Dark Matter Nor a Large Metallicity Spread in the Extreme Milky Way Satellite Ursa Major III/UNIONS 1. <i>ApJL, 999</i>, L8. <a href='https://doi.org/10.3847/2041-8213/ae29b8'>DOI</a>"
+    - "Cerny, W., Li, T. S., Pace, A. B., Simon, J. D., Geha, M., Ji, A. P., Drlica-Wagner, A., Bruce, J., Gnedin, O. Y., Bell, E. F., Mau, S., Escala, I., Bissonette, D., Savino, A., Chiti, A., & Kirby, E. N. (2026). A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. <i>arXiv:2602.17652</i>. <a href='https://arxiv.org/abs/2602.17652'>arXiv</a>"
+
 - title: Other Interests
   type: list
   contents:
