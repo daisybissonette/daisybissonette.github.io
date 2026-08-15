@@ -11,11 +11,11 @@ nav_order: 2
 
 As a graduate student in the Department of Astronomy and Astrophysics at the University of Chicago, advised by Prof. Alexander Ji, I study the **smallest galaxies in the universe**.  
 
-My recent work focuses on the **ultra-faint dwarf galaxy Segue 1**, using **Low Resolution Imaging Spectrometer (LRIS)** spectroscopy to measure stellar metallicities and reconstruct its **metallicity distribution function (MDF)**.  
+My recent work focuses on the **ultra-faint dwarf galaxy Segue 1**, using **Low Resolution Imaging Spectrometer (LRIS)** spectroscopy to measure stellar metallicities and reconstruct its **metallicity distribution function (MDF)** ([arXiv:2605.12810](https://arxiv.org/abs/2605.12810)).  
 
 Currently, I am also contributing to the **re-calibration of the Ca II triplet (CaT)** and **Ca II K (CaK)** metallicity indicators, refining empirical relations that connect spectroscopic indices to [Fe/H].
 
-I also have contributed to the analysis of the Milky Way satellite **Ursa Major III/Unions 1**, combining **Pan-STARRS1 DR2 photometry** and LRIS spectroscopy to determine metallicities for 12 member stars and place constraints on the system's metallicity dispersion.   
+I also have contributed to the analysis of the Milky Way satellite **Ursa Major III/UNIONS 1**, combining **Pan-STARRS1 DR2 photometry** and LRIS spectroscopy to determine metallicities for 12 member stars and place constraints on the system's metallicity dispersion ([arXiv:2510.02431](https://arxiv.org/abs/2510.02431)).   
 
 ---
 
@@ -50,6 +50,6 @@ For my **Spring Junior Paper**, advised by **Dr. Adam Burrows**, I reviewed the 
 
 ## NuMED for Children — Pediatric Cardiac Stent Design
 
-Supported by the **John C. Bogle ’51 Fellowship**, I interned at **NuMED for Children, Inc.** in 2020, contributing to the development and testing of a new pediatric cardiac stent that later received **FDA approval in 2021**.
+Supported by the **John C. Bogle ’51 Fellowship**, I interned at **[NuMED for Children, Inc.](https://www.numedforchildren.com/)** in 2020, contributing to the development and testing of a new pediatric cardiac stent that later received **FDA approval in 2021**.
  
 ---

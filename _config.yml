@@ -621,9 +621,23 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# DISABLED: the CV page is built from _data/cv.yml, not from JSON Resume.
+#
+# _layouts/cv.liquid renders `_data/cv.yml` only when `site.data.resume` is
+# empty. Loading assets/json/resume.json here would populate site.data.resume
+# and silently override _data/cv.yml, which is the maintained source.
+#
+# (assets/json/resume.json is also invalid JSON — it contains `//` comments,
+# which JSON does not allow — so it was already failing to load. Disabling it
+# here makes that explicit instead of accidental.)
+#
+# To switch back to JSON Resume: strip the `//` comment lines from
+# assets/json/resume.json, port the contents of _data/cv.yml into it, then
+# uncomment the three lines below.
+#
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics

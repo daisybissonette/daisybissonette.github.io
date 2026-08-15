@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Department of Astronomy and Astrophysics at the University of Chicago
+subtitle: Ph.D. candidate in Astronomy and Astrophysics, University of Chicago. Stellar populations, data analysis, and access to science education.
 
 profile:
   align: right
@@ -27,11 +27,15 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Originally from Upstate New York, I am a Ph.D. candidate in the Department of Astronomy and Astrophysics at the University of Chicago, advised by Prof. Alexander Ji. I completed my A.B. in Astrophysical Sciences with honors at Princeton University in 2023.
+I'm an astrophysicist finishing my Ph.D. in Astronomy and Astrophysics at the University of Chicago. Originally from Upstate New York, I completed my A.B. in Astrophysical Sciences with honors at Princeton in 2023.
 
-My research focuses on measuring stellar metallicities in the faintest known dwarf galaxies using low-to-medium resolution spectroscopy, with the goal of understanding the earliest phases of galaxy formation and chemical enrichment.
+I measure stellar metallicities in ultra-faint dwarf galaxies to study the earliest phases of galaxy formation and chemical enrichment. Most of my work centers on building analysis pipelines for low- and medium-resolution spectra: spectral fitting, statistical inference on small samples, and uncertainty quantification.
 
-Outside of research, I love kayaking, running, and watercolor painting.
+I also work on access to science education. I've served on a DEIB advisory board for [PhET STEM education tools](/outreach/) used by millions of students, hosted a virtual department open house for prospective PhD students at UChicago, tutored for over six years, and current focus on running public science events on Chicago's South Side. The [resources](/resources/) pages here collect what I've learned about fee waivers, funding, and applications.
+
+Looking beyond my PhD, I am broadly interested in roles that combine technical analysis with public impact, in industry or policy. Feel free to [get in touch](/contact/).
+
+Outside of research, I love to run, kayak, tend to my community garden plot, and work on my watercolor painting skills.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

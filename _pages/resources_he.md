@@ -1,250 +1,208 @@
 ---
 layout: page
-title: Higher Education 
+title: Higher Education
 permalink: /resources/he/
-description: Resources for higher education. 
+description: Fee waivers, preview programs, fellowships, and reading on applying to graduate school.
 nav: false
-display_categories: [college, school]
+toc:
+  sidebar: left
 ---
 
-<!--
 <p>
-  This page collects resources for undergrad and graduate students navigating higher education — scholarships, research opportunities, reading on academia, and professional development. Some of this reflects my own path through astrophysics; I've tried to make it broadly useful even if you're not in astronomy. This is a living list.
+  Deadlines and eligibility change yearly. If something here is out of date, <a href="/contact/">let me know</a>.
 </p>
--->
 
 <hr>
 
-<h2>1. Scholarships</h2>
+<h2>1. Applying to Graduate School</h2>
 
-<!--
+<h3>Application fee waivers</h3>
+
+<p>
+  PhD application fee waivers should be more common, but are generally more accesible than one may think. I received fee waivers for 18/19 of the schools I applied to, but I started applying and asking very early (~September). In my experience, waivers tend to come through one of four routes:
+</p>
+
+<ul>
+  <li>
+    <strong>BigTen Alliance FreeApp Fee Waiver Program</strong> —
+    <a href="https://btaa.org/resources-for/students/freeapp/eligibility" target="_blank">BigTen FreeApp</a> lets you apply to fee waiver programs for many great graduate programs with one form (including UChicago).
+  </li>
+  <li>
+    <strong>Financial hardship request</strong> —
+    Most graduate schools have a form, or accept an email to the graduate admissions chair. Some have a limited pool granted first-come, first-served, so request several weeks before the deadline.
+  </li>
+  <li>
+    <strong>Participation in a qualifying program</strong> —
+    <a href="https://mcnairscholars.com/" target="_blank">McNair Scholars</a>, TRIO programs, <a href="https://www.leadershipalliance.org/" target="_blank">Leadership Alliance</a>, SROP, and NSF REU participation often trigger automatic waivers.
+  </li>
+  <li>
+    <strong>Conference attendance</strong> —
+    Many departments waive fees for students who attended <a href="https://www.sacnas.org/" target="_blank">SACNAS</a>, ABRCMS, <a href="https://www.aises.org/" target="_blank">AISES</a>, or NSBP. 
+  </li>
+</ul>
+
+<h3>Preview &amp; pre-application programs</h3>
+
+<p>
+  Free, usually travel-funded programs that bring prospective applicants to campus before they apply. Many include an application fee waiver. Applications typically open in late summer for early-fall events.
+</p>
+
+<ul>
+  <li>
+    <strong><a href="https://gsas.yale.edu/preview-days" target="_blank">Yale Preview Days</a></strong> —
+    Brings prospective PhD applicants across disciplines to campus in early fall. Yale covers travel within the US and its territories, plus accommodation and meals.
+  </li>
+  <li>
+    <strong>Princeton Prospective Ph.D. Preview (P3)</strong> —
+    Multi-day fall event covering graduate education, faculty meetings, and application guidance. Search "Princeton P3 program" for the current cycle.
+  </li>
+  <li>
+    <strong>Department open houses</strong> —
+    Many astronomy and physics departments run their own fall preview events, announced on department sites and mailing lists rather than anywhere centralized. Start checking in August!
+  </li>
+</ul> 
+
+<h4>Bridge &amp; pathway programs</h4>
+
+<ul>
+  <li>
+    <strong><a href="https://www.aps.org/initiatives/inclusion/bridge-program" target="_blank">APS Bridge Program</a></strong> —
+    Places students who want a physics PhD but weren't admitted into departments providing additional preparation and mentoring. Open to anyone with a physics or related degree who has completed core coursework and hasn't been admitted to a graduate program. Applications run mid-December through late March, after most PhD decisions are released.
+  </li>
+  <li>
+    <strong><a href="https://calbridge.org/" target="_blank">Cal-Bridge</a></strong> —
+    Partnership across 9 UC, 22 CSU, and California community college campuses for students in physics, astronomy, CS/computer engineering, or math/statistics. Provides scholarships, paired CSU/UC faculty mentoring, tutoring, and a <a href="https://calbridge.org/summer-program/" target="_blank">summer research program</a>. Caltech and Arizona, among others, waive application fees for Cal-Bridge scholars.
+  </li>
+  <li>
+    <strong><a href="https://www.leadershipalliance.org/" target="_blank">Leadership Alliance</a></strong> —
+    Consortium running summer research programs and a national symposium, with graduate school placement support.
+  </li>
+  <li>
+    <strong><a href="https://www.astrobetter.com/wiki/Diversity+Programs" target="_blank">AstroBetter — Diversity Programs wiki</a></strong> —
+    Community-maintained list of bridge, pathway, and pre-application programs in astronomy.
+  </li>
+</ul>
+
+<h3>GRE &amp; program requirements</h3>
+
+<ul>
+  <li>
+  Most astronomy and astrophysics PhD programs have dropped the physics GRE and the general GRE. Check each program's current policy at the start of your application cycle: <strong><a href="https://docs.google.com/spreadsheets/d/19UhYToXOPZkZ3CM469ru3Uwk4584CmzZyAVVwQJJcyc/edit?usp=sharing" target="_blank"> spreadsheet of current GRE policies by program</a></strong>
+  </li>
+</ul>
+
+
+<h3>Reading on applying to graduate school</h3>
+
+<ul>
+  <li>
+    <strong><a href="https://www.astrobetter.com/" target="_blank">AstroBetter</a></strong> —
+    Blog and wiki maintained by working astronomers, covering applications, software, conference culture, and the job market.
+  </li>
+  <li>
+    <strong><a href="https://astrobites.org/guides/" target="_blank">Astrobites guides</a></strong> —
+    Written by graduate students; includes guides to applications, the GRE, and choosing programs. Also has great paper summaries of new research on arXiv! 
+  </li>
+</ul>
+
+<h3>Notes on the process</h3>
+
+<ul>
+  <li>Admissions can depend heavily on which faculty have funding in a given year. I would recommend applying to 12-15 programs. </li>
+  <li>Funded offers with a stipend are standard in the sciences. Being asked to pay tuition for a science PhD is a HUGE(!!) red flag.</li>
+  <li>I'll add more here eventually...</li>
+</ul>
+
+<hr>
+
+<h2>2. Fellowships &amp; Funding</h2>
+
 <h3>Undergraduate</h3>
 <ul>
   <li>
-    <strong><a href="https://www.goldwaterscholarship.gov/" target="_blank">Barry Goldwater Scholarship</a></strong> —
-    The premier undergraduate award in science, math, and engineering in the US. For sophomores and juniors planning research careers; up to $7,500/year. Nominated by your institution.
+    <strong><a href="https://goldwaterscholarship.gov/" target="_blank">Barry Goldwater Scholarship</a></strong> —
+    For sophomores and juniors planning research careers in science, math, or engineering. Institutionally nominated (internal campus deadlines can be months before the national one)
   </li>
   <li>
-    <strong><a href="https://www.rhodesscholarship.com/" target="_blank">Rhodes Scholarship</a></strong> —
-    Full funding for graduate study at the University of Oxford. Open to US citizens 18–24; 32 scholarships awarded annually. Highly competitive.
+    <strong><a href="https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/" target="_blank">Rhodes</a></strong> /
+    <strong><a href="https://www.marshallscholarship.org/" target="_blank">Marshall</a></strong> —
+    Funded graduate study in the UK, applied for in senior year. Both require institutional endorsement.
   </li>
   <li>
-    <strong><a href="https://www.marshallscholarship.org/" target="_blank">Marshall Scholarship</a></strong> —
-    Funds graduate study in the UK for up to three years. Open to US citizens; typically applied for in senior year of undergrad.
-  </li>
-  <li>
-    <strong><a href="https://www.truman.gov/" target="_blank">Truman Scholarship</a></strong> —
-    $30,000 for graduate study in public service fields. For juniors committed to careers in government, policy, education, or public service. Nominated by your institution.
-  </li>
-  <li>
-    <strong><a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship Program (GRFP)</a></strong> —
-    While primarily a graduate fellowship, seniors in their final year of undergrad are also eligible to apply. $37,000/year stipend + tuition allowance for three years.
-  </li>
-  <li>
-    <strong><a href="https://www.udall.gov/" target="_blank">Udall Scholarship</a></strong> —
-    For students committed to careers related to the environment, or Native American students in any field. $7,000 award. Sophomores and juniors; nominated by institution.
-  </li>
-  <li>
-    <strong><a href="https://www.aps.org/programs/minorities/nminority/index.cfm" target="_blank">APS Scholarships for Minority Undergraduate Physics Majors</a></strong> —
-    The American Physical Society offers scholarships for underrepresented minority students in physics.
-  </li>
-  <li>
-    <strong><a href="https://www.swe.org/scholarships/" target="_blank">Society of Women Engineers (SWE) Scholarships</a></strong> —
-    SWE administers scholarships for women and underrepresented genders in engineering and related STEM fields.
-  </li>
-  <li>
-    <strong><a href="https://www.questbridge.org/college-prep-scholars" target="_blank">QuestBridge College Prep Scholars</a></strong> —
-    QuestBridge-affiliated college scholars programs continue supporting students through undergrad.
+    <strong><a href="https://www.aps.org/funding-recognition/scholarship" target="_blank">APS</a></strong> /
+    <strong><a href="https://swe.org/scholarships/" target="_blank">SWE</a></strong> —
+    Discipline-specific undergraduate awards in physics and engineering.
   </li>
 </ul>
 
 <h3>Graduate</h3>
 <ul>
   <li>
-    <strong><a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship Program (GRFP)</a></strong> —
-    The most widely known US graduate fellowship in STEM. $37,000 annual stipend plus $12,000 cost-of-education allowance for three years. Apply in fall of your first or second year of grad school (or senior year of undergrad).
+    <strong><a href="https://www.nsfgrfp.org/" target="_blank">NSF Graduate Research Fellowship (GRFP)</a></strong> —
+    Three years of support for your PhD, allowing you more flexibility to choose your own research projects. Open to college seniors and early graduate students. Eligibility rules have changed in recent cycles!
   </li>
   <li>
-    <strong><a href="https://www.hertzfoundation.org/the-fellowship/" target="_blank">Hertz Fellowship</a></strong> —
-    One of the most prestigious and competitive STEM fellowships. Five years of support (~$38,000/year stipend) plus tuition. For PhD students in applied physical, biological, and engineering sciences.
+    <strong><a href="https://www.krellinst.org/csgf/" target="_blank">DOE Computational Science Graduate Fellowship</a></strong> —
+    Four years of support for computational science students, including a required practicum at a DOE national lab.
   </li>
   <li>
-    <strong><a href="https://www.krellinst.org/csgf/" target="_blank">DOE Computational Science Graduate Fellowship (CSGF)</a></strong> —
-    Four-year fellowship for graduate students in computational science. $45,000/year stipend; requires a practicum at a DOE national lab.
+    <strong><a href="https://science.nasa.gov/researchers/sara/grant-solicitations/" target="_blank">NASA FINESST</a></strong> —
+    Funds graduate student-written proposals in astrophysics, heliophysics, planetary science, and Earth science.
   </li>
   <li>
-    <strong><a href="https://www.ndseg.org/" target="_blank">NDSEG Fellowship</a></strong> —
-    Three years of support for graduate students in STEM who are US citizens. Run by the Department of Defense.
-  </li>
-  <li>
-    <strong><a href="https://sites.nationalacademies.org/pga/fordfellowships/" target="_blank">Ford Foundation Fellowships</a></strong> —
-    For PhD students and postdocs who are members of groups historically underrepresented in higher education. Pre-doctoral, dissertation, and postdoctoral awards available.
-  </li>
-  <li>
-    <strong><a href="https://www.pdsoros.org/" target="_blank">Paul &amp; Daisy Soros Fellowship for New Americans</a></strong> —
-    $90,000 over two years for immigrants and children of immigrants pursuing graduate study in any field.
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">AAS Fellowship Programs</a></strong> —
-    The American Astronomical Society maintains information on fellowships relevant to astronomy and astrophysics graduate students. Check the AAS website's "Grants &amp; Prizes" section.
-  </li>
-  <li>
-    <strong><a href="https://www.nasa.gov/learning-resources/nasa-fellowships/" target="_blank">NASA Fellowships (FINESST and others)</a></strong> —
-    NASA's Future Investigators in NASA Earth and Space Science and Technology (FINESST) program funds graduate student proposals in heliophysics, astrophysics, planetary science, and Earth science.
+    <strong><a href="https://aas.org/grants-and-prizes" target="_blank">AAS Grants &amp; Prizes</a></strong> —
+    Travel grants, small research awards, and prizes for astronomy graduate students.
   </li>
 </ul>
--->
-
-<hr>
-
-<h2>2. Articles &amp; Reading on Higher Education</h2>
-
-<!--
-<p>
-  Navigating college and graduate school is much easier when you've read about other people's experiences — especially if you're first-gen or don't have family members who went through these systems. Below are some pointers; I'll add specific links as I compile my favorites.
-</p>
-
-<ul>
-  <li>
-    <strong><a href="#" target="_blank">How to apply to graduate school in astronomy / physics</a></strong>
-    — There are several widely-shared blog posts and guides on applying to PhD programs in physics and astronomy. Look for guides by current professors or grad students — they tend to be more candid than official department websites.
-  </li>
-  <li>
-    <strong><a href="https://www.astrobetter.com/" target="_blank">AstroBetter</a></strong> —
-    A wiki and blog maintained by professional astronomers with practical advice on applying to grad school, using astronomy software, conference culture, job applications, and much more.
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">"So You Want to Go to Grad School" (various authors)</a></strong>
-    — Search for this phrase — there are several excellent essays by academics at various career stages about what a PhD is, what it isn't, and how to decide if it's right for you.
-  </li>
-  <li>
-    <strong><a href="https://www.chronicle.com/article/the-illustrated-guide-to-a-ph-d" target="_blank">The Illustrated Guide to a Ph.D. (Matt Might)</a></strong> —
-    A famous short visual essay on what a PhD actually is. Worth five minutes of your time before you decide to pursue one.
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">Books: "The Ph.D. Grind" by Philip Guo</a></strong>
-    — A candid memoir of a computer science PhD. Available free online. Even if you're not in CS, the honest account of grad school dynamics is valuable.
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">First-generation student experience essays</a></strong>
-    — Add links here to essays or blog posts about first-gen college and grad school experiences that resonated with you personally.
-  </li>
-  <li>
-    <strong><a href="https://www.insidehighered.com/" target="_blank">Inside Higher Ed</a></strong> —
-    News and opinion on higher education in the US. Good for staying informed about trends in academia, graduate education policy, and the job market.
-  </li>
-</ul>
--->
 
 <hr>
 
 <h2>3. Research Resources</h2>
 
-<!--
-<h3>Finding Undergraduate Research Opportunities</h3>
+<h3>Finding undergraduate research</h3>
 <ul>
   <li>
-    <strong><a href="https://www.nsf.gov/crssprgm/reu/" target="_blank">NSF Research Experiences for Undergraduates (REUs)</a></strong> —
-    NSF-funded summer research programs at universities and labs across the country. Paid, with housing often provided. The NSF site has a searchable database of all active REU sites.
+    <strong><a href="https://www.nsf.gov/funding/initiatives/reu/search" target="_blank">NSF Research Experiences for Undergraduates (REU)</a></strong> —
+    Paid summer research at universities and labs nationwide, usually with housing. Deadlines cluster in January and February.
   </li>
   <li>
-    <strong><a href="https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate+Student" target="_blank">Pathways to Science: Undergraduate Opportunities</a></strong> —
-    Searchable database of undergraduate research, internship, and fellowship opportunities.
-  </li>
-  <li>
-    <strong><a href="https://aas.org/education/astronomy-reu-sites" target="_blank">AAS List of Astronomy REU Sites</a></strong> —
-    The American Astronomical Society maintains a list of astronomy-specific REU programs, including international opportunities.
-  </li>
-  <li>
-    <strong><a href="https://www.stsci.edu/opportunities/space-astronomy-summer-program" target="_blank">Space Telescope Science Institute (STScI) Summer Program</a></strong> —
-    Paid summer research at the home institution of Hubble and James Webb Space Telescope science operations.
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">Cold-emailing professors for research</a></strong>
-    — One of the best ways to find research is to email faculty directly. Keep your email short: introduce yourself, say specifically which paper or project you're interested in, and ask if they have space for an undergraduate researcher.
+    <strong><a href="https://aas.org/careers/summer-programs-undergraduates" target="_blank">AAS list of astronomy summer programs</a></strong> —
+    Astronomy-specific REUs and summer research, including international options.
   </li>
 </ul>
 
-<h3>Astronomy-Specific Research Tools</h3>
+<h3>Tools</h3>
 <ul>
   <li>
-    <strong><a href="https://ui.adsabs.harvard.edu/" target="_blank">NASA ADS (Astrophysics Data System)</a></strong> —
-    The primary search engine for astronomy and astrophysics research papers. Free access to most papers.
+    <strong><a href="https://ui.adsabs.harvard.edu/" target="_blank">NASA ADS</a></strong> —
+    Search engine for astronomy literature, with citation and reference tracking.
   </li>
   <li>
-    <strong><a href="https://arxiv.org/archive/astro-ph" target="_blank">arXiv: astro-ph</a></strong> —
-    Free preprint server where most astronomy papers are posted before (or simultaneously with) journal publication.
+    <strong><a href="https://arxiv.org/list/astro-ph/recent" target="_blank">arXiv: astro-ph</a></strong> —
+    Preprint server where most astronomy papers appear, usually before journal publication.
   </li>
   <li>
     <strong><a href="https://www.astropy.org/" target="_blank">Astropy</a></strong> —
-    The standard Python library for astronomy. Excellent documentation and tutorials.
+    Standard Python library for astronomy, with <a href="https://learn.astropy.org/" target="_blank">tutorials</a> for beginners.
   </li>
-</ul>
 
-<h3>How to Read a Research Paper</h3>
-<ul>
-  <li>
-    <strong><a href="#" target="_blank">"How to Read a Paper" by S. Keshav</a></strong>
-    — A short (3-page) guide to reading research papers efficiently using the "three-pass" method. Widely recommended in STEM graduate programs.
-  </li>
 </ul>
--->
 
 <hr>
 
-<h2>4. Other: Mentorship, Professional Societies &amp; Diversity Programs</h2>
+<h2>4.Mentorship</h2>
 
-<!--
-<h3>Professional Societies</h3>
 <ul>
   <li>
-    <strong><a href="https://aas.org/" target="_blank">American Astronomical Society (AAS)</a></strong> —
-    The primary professional society for astronomers in the US. Hosts major conferences per year and maintains resources for students including the AAS job register and prize fellowships.
+    <strong><a href="https://aas.org/comms/cswa/resources/mentoring" target="_blank">AAS Committee on the Status of Women — mentoring resources</a></strong> —
+    Collected mentoring guidance and program listings.
   </li>
   <li>
-    <strong><a href="https://www.aps.org/" target="_blank">American Physical Society (APS)</a></strong> —
-    Professional society for physicists. Runs division-specific conferences and has programs for student members including travel grants.
+    <strong>AMP-UP</strong> —
+    Matches senior graduate students and junior postdocs with prize fellowship holders for guidance through the postdoc application process. Announced through the AAS each spring.
   </li>
   <li>
-    <strong><a href="https://www.sacnas.org/" target="_blank">SACNAS</a></strong> —
-    Hosts the largest diversity conference in STEM and provides mentorship, funding, and community for underrepresented scientists at all career stages.
-  </li>
-  <li>
-    <strong><a href="https://www.nobcche.org/" target="_blank">NOBCChE</a></strong> —
-    Annual conference, scholarships, and professional network for Black scientists and engineers.
-  </li>
-  <li>
-    <strong><a href="https://www.swe.org/" target="_blank">Society of Women Engineers (SWE)</a></strong> —
-    Professional society for women and underrepresented genders in engineering and STEM.
-  </li>
-  <li>
-    <strong><a href="https://www.aises.org/" target="_blank">AISES (American Indian Science and Engineering Society)</a></strong> —
-    Professional society and conference for Indigenous scientists and engineers.
+    <strong><a href="https://aas.org/education/aas-astronomy-ambassadors-program" target="_blank">AAS Astronomy Ambassadors</a></strong> —
+    Training for early-career astronomers doing public engagement.
   </li>
 </ul>
-
-<h3>Mentorship &amp; Diversity Programs</h3>
-<ul>
-  <li>
-    <strong><a href="https://aas.org/education/astronomy-ambassadors-program" target="_blank">AAS Astronomy Ambassadors</a></strong> —
-    Training and community for early-career astronomers interested in education and public outreach.
-  </li>
-  <li>
-    <strong><a href="#" target="_blank">AURA Diversity Programs</a></strong>
-    — AURA (which operates NSF's optical observatories and STScI) runs internship programs aimed at increasing diversity in astronomy.
-  </li>
-</ul>
-
-<h3>General Advice</h3>
-<ul>
-  <li>
-    <strong>Talk to graduate students, not just faculty.</strong> — Graduate students will give you a more honest picture of what day-to-day research life is like in a group or department.
-  </li>
-  <li>
-    <strong>Apply broadly to grad school.</strong> — Admissions to PhD programs in physical sciences are unpredictable. Apply to at least 8–12 programs spanning a realistic range. Application fees are often waived for low-income or first-gen applicants — ask.
-  </li>
-  <li>
-    <strong>Your GRE may not matter.</strong> — Many astronomy and physics PhD programs have dropped the physics GRE requirement. Check each program's current policy.
-  </li>
-</ul>
--->

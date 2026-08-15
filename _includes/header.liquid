@@ -74,19 +74,22 @@
             <a class="nav-link" href="{{ '/outreach/' | relative_url }}">Outreach</a>
           </li>
 
-          <li class="nav-item dropdown {% if page.url contains '/resources/' %}active{% endif %}">
-            <a
-              class="nav-link dropdown-toggle"
-              href="#"
-              id="resourcesDropdown"
-              role="button"
+          <li class="nav-item dropdown nav-dropdown-hover {% if page.url contains '/resources' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/resources/' | relative_url }}" id="resourcesDropdown" aria-haspopup="true" aria-expanded="false">
+              Resources
+              <i class="fa-solid fa-angle-down dropdown-caret"></i>
+            </a>
+            <button
+              class="dropdown-toggle-btn"
+              type="button"
               data-toggle="dropdown"
               aria-haspopup="true"
               aria-expanded="false"
-            >
-              Resources
-            </a>
+              aria-label="Toggle Resources menu"
+            ></button>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="resourcesDropdown">
+              <a class="dropdown-item {% if page.url == '/resources/' %}active{% endif %}" href="{{ '/resources/' | relative_url }}">All Resources</a>
+              <div class="dropdown-divider"></div>
               <a class="dropdown-item {% if page.url contains '/resources/hs/' %}active{% endif %}" href="{{ '/resources/hs/' | relative_url }}">High School</a>
               <a class="dropdown-item {% if page.url contains '/resources/he/' %}active{% endif %}" href="{{ '/resources/he/' | relative_url }}">Higher Education</a>
             </div>

@@ -276,6 +276,88 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* Resources nav: parent link navigates to /resources/, menu opens on hover.
+   The hidden button keeps Bootstrap's click-toggle available for keyboard
+   and touch users, since :hover never fires on touch devices. */
+.navbar .nav-item.nav-dropdown-hover {
+  .dropdown-caret {
+    font-size: 0.7em;
+    margin-left: 0.2em;
+    vertical-align: middle;
+  }
+
+  .dropdown-toggle-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 2.2rem;
+    height: 100%;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+
+    &:focus {
+      outline: 2px solid var(--global-theme-color);
+      outline-offset: -2px;
+    }
+
+    /* Bootstrap adds its own caret to .dropdown-toggle; we draw our own. */
+    &::after {
+      display: none;
+    }
+  }
+}
+
+/* Desktop (navbar-expand-sm breakpoint): open on hover. */
+@media (min-width: 576px) {
+  .navbar .nav-item.nav-dropdown-hover {
+    position: relative;
+
+    &:hover > .dropdown-menu,
+    &:focus-within > .dropdown-menu {
+      display: block;
+    }
+
+    /* Remove the gap between link and menu so the cursor can travel
+       into the menu without it closing. */
+    > .dropdown-menu {
+      margin-top: 0;
+    }
+  }
+}
+
+/* Collapsed navbar: show children inline rather than as a floating menu,
+   so both are reachable without a hover state. */
+@media (max-width: 575.98px) {
+  .navbar .nav-item.nav-dropdown-hover {
+    .dropdown-toggle-btn,
+    .dropdown-caret {
+      display: none;
+    }
+
+    > .dropdown-menu {
+      display: block;
+      position: static;
+      float: none;
+      border: 0;
+      padding: 0;
+      margin: 0;
+      background-color: transparent;
+    }
+
+    .dropdown-divider {
+      display: none;
+    }
+
+    .dropdown-item {
+      padding-right: 0;
+      font-size: 0.95em;
+      opacity: 0.85;
+    }
+  }
+}
+
 .navbar.navbar-light {
   a {
     &:hover {

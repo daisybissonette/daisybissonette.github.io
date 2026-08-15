@@ -1,104 +1,204 @@
+# Wording below is copied verbatim from assets/pdf/Updated_CV_Bissonette_0424_web1.pdf.
+# Do not paraphrase or embellish — edit the PDF and this file together.
+#
+# These sections are NOT in the April 2024 PDF and are web-only additions:
+#   - Publications (3 papers, matching _bibliography/papers.bib)
+#   - the 2026 Illinois Space Grant Consortium fellowship under Honors and Awards
+#   - the Undergraduate Research Mentor entry under Teaching Experience
+#   - Skills, Languages, and Observing Experience at the bottom of this file,
+#     restored from the old assets/json/resume.json (now resume.json.bak)
+#
+# To reorder any section on the page, move its top-level block within this file.
+
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Daisy Bissonette
+    - name: Email
+      value: dbissonette@uchicago.edu
+    - name: LinkedIn
+      value: linkedin.com/in/daisybissonette
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: University of Chicago in Chicago, IL (2023 –)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Ph.D. candidate in Astronomy and Astrophysics, expected May 2028.
+    - title: Princeton University in Princeton, NJ (2019 – 2023)
       description:
-        - Description 1.
-        - Description 2.
+        - A.B. degree with Honors in Astrophysical Sciences, May 2023.
 
-- title: Experience
-  type: time_table
+- title: Scientific Interests
+  type: list
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Stellar populations, dwarf galaxies, and near-field cosmology
 
 - title: Publications
   type: list
   contents:
-    - "Bissonette, D., Ji, A. P., Simon, J. D., Bland-Hawthorn, J., Chiti, A., Geha, M., Li, T. S., Frebel, A., & Luna, A. M. (2026). The Metallicity Distribution of the Ultra-Faint Dwarf Galaxy Segue 1. <i>arXiv:2605.12810</i>. <a href='https://arxiv.org/abs/2605.12810'>arXiv</a>"
-    - "Cerny, W., Bissonette, D., Ji, A. P., Geha, M., Chiti, A., Smith, S. E. T., Simon, J. D., Pace, A. B., Kirby, E. N., Venn, K. A., Li, T. S., & Luna, A. M. (2026). No Observational Evidence for Dark Matter Nor a Large Metallicity Spread in the Extreme Milky Way Satellite Ursa Major III/UNIONS 1. <i>ApJL, 999</i>, L8. <a href='https://doi.org/10.3847/2041-8213/ae29b8'>DOI</a>"
-    - "Cerny, W., Li, T. S., Pace, A. B., Simon, J. D., Geha, M., Ji, A. P., Drlica-Wagner, A., Bruce, J., Gnedin, O. Y., Bell, E. F., Mau, S., Escala, I., Bissonette, D., Savino, A., Chiti, A., & Kirby, E. N. (2026). A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. <i>arXiv:2602.17652</i>. <a href='https://arxiv.org/abs/2602.17652'>arXiv</a>"
+    - "<strong>Bissonette, D.</strong>, Ji, A. P., Simon, J. D., Bland-Hawthorn, J., Chiti, A., Geha, M., Li, T. S., Frebel, A., & Luna, A. M. (2026). <strong>The Metallicity Distribution of the Ultra-Faint Dwarf Galaxy Segue 1</strong>. <i>arXiv e-prints</i>, arXiv:2605.12810. <a href='https://arxiv.org/abs/2605.12810'>arXiv</a>"
+    - "Cerny, W., <strong>Bissonette, D.</strong>, Ji, A. P., Geha, M., Chiti, A., Smith, S. E. T., Simon, J. D., Pace, A. B., Kirby, E. N., Venn, K. A., Li, T. S., & Luna, A. M. (2026). <strong>No Observational Evidence for Dark Matter Nor a Large Metallicity Spread in the Extreme Milky Way Satellite Ursa Major III/UNIONS 1</strong>. <i>The Astrophysical Journal Letters, 999</i>(1), L8. <a href='https://arxiv.org/abs/2510.02431'>arXiv</a> | <a href='https://doi.org/10.3847/2041-8213/ae29b8'>DOI</a>"
+    - "Cerny, W., Li, T. S., Pace, A. B., Simon, J. D., Geha, M., Ji, A. P., Drlica-Wagner, A., Bruce, J., Gnedin, O. Y., Bell, E. F., Mau, S., Escala, I., <strong>Bissonette, D.</strong>, Savino, A., Chiti, A., & Kirby, E. N. (2026). <strong>A Chemodynamical Census of the Milky Way's Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems</strong>. <i>arXiv e-prints</i>, arXiv:2602.17652. <a href='https://arxiv.org/abs/2602.17652'>arXiv</a>"
 
-- title: Other Interests
-  type: list
+- title: Honors and Awards
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2026
+      items:
+        - Illinois Space Grant Consortium (ISGC) Graduate Fellowship, NASA
+    - year: 2023
+      items:
+        - UChicago Astronomy & Astrophysics McCormick Fellowship
+        - Chambliss Astronomy Achievement Award Honorable Mention
+    - year: 2022
+      items:
+        - Princeton University Class of 1991 Foundation Scholarship
+    - year: 2021
+      items:
+        - "Princeton Service Focus Winter Grant: Educational Equity"
+    - year: 2020
+      items:
+        - John C. Bogle ’51 Fellowship at Princeton University
+        - Scholars Institute Fellows Program (SIFP) Summer Math Fellowship
+        - Evergreen STEM Scholarship
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant at the University of Chicago, 2023 –
+      description:
+        - "Advised by Prof. Alexander Ji: Using stellar spectroscopy from the Low Resolution Imaging Spectrometer (LRIS) to constrain stellar metallicities in the dwarf galaxy Segue I. Paper in prep"
+    - title: Senior Thesis at Princeton University, 2022 – 2023
+      description:
+        - "Advised by Prof. Jenny Greene: Determined the initial mass function of a set of early-type galaxies using spectroscopy from the MASSIVE Survey and molecular gas observations from ALMA data."
+    - title: International Internship Program (IIP) at Cardiff University, Summer 2022
+      description:
+        - "Advised by Dr. Timothy Davis: Determined the star formation efficiency for a sample of 13 galaxies using ALMA observations of CO(1-0) emission with results that further the ability to constrain dark matter distributions of these galaxies."
+    - title: Junior Independent Research at Princeton University, 2021 – 2022
+      description:
+        - "Undergraduate Summer Research Program (USRP): Advised by Prof. Elena Murchikova and Prof. Neta Bahcall: Analyzed spectral data from the Neutron Star Interior Composition Explorer (NICER) mission to measure x-ray variability at SgrA* during the S02 star flyby."
+    - title: Research and Development Intern at NuMED For Children Inc., Summer 2020
+      description:
+        - Worked directly with the Head of R&D on NuMED’s international team to develop of a new pediatric cardiac stent design that received FDA approval in December 2021.
+
+- title: Talks & Posters
+  type: time_table
+  contents:
+    - title: "Dwarf Galaxies II: Galactic Frontiers Conference, June 2025"
+      description:
+        - Poster, Dartmouth College, Hanover, NH.
+    - title: Small Galaxies, Cosmic Questions II, August 2024
+      description:
+        - Poster, Durham, UK.
+    - title: First Stars VII Conference, May 2024
+      description:
+        - Flash Talk, New York, NY.
+    - title: 241st American Astronomical Society Meeting, January 2023
+      description:
+        - Poster, Seattle, WA.
+    - title: 2022 International Internship Program Research Symposium, August 2022
+      description:
+        - Poster, Princeton University.
+    - title: Summer Star Formation Meeting, July 2022
+      description:
+        - Contributed Talk, Cardiff University.
+    - title: Junior Paper Research Symposium, May 2022
+      description:
+        - Contributed Talk, Princeton University.
+    - title: Conference of Undergraduate Women in Physics, January 2022
+      description:
+        - Virtual Poster, Rutgers University.
+    - title: USRP Astrophysics Summer Research Symposium, August 2021
+      description:
+        - Contributed Talk, Princeton University.
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Research Mentor at the University of Chicago, 2026
+      description:
+        - "Jacob Mascort (DePaul University), through the SkAI Institute SEED Program."
+        - "Hexi Jin (University of Chicago), undergraduate research in the Department of Astronomy and Astrophysics."
+    - title: "Graduate Teaching Assistant at the University of Chicago: ASTR12600: Mass, Energy, Space, and Time, Fall 2023; ASTR12700: Galaxies, Winter 2024."
+      description:
+        - Led laboratory sections focused on quantitative and problem-solving skills in physics, astronomy, and math topics
+        - Held weekly office hours, graded assignments and lab reports
+    - title: "Undergraduate Teaching Assistant at Princeton University: AST203: The Universe, Spring 2022."
+      description:
+        - Invited by the department to assist with the introductory astronomy course
+        - Held weekly office hours and problem sessions, graded homework and exams
+        - Led monthly observing sessions for students
+
+- title: Service and Outreach
+  type: time_table
+  contents:
+    - title: Lifelong Learning Talk at Chicago Public Library, November 2023
+      description:
+        - Interactive lecture for senior citizens about the role of spectroscopy in astronomy at Chicago’s Blackstone Public Library.
+    - title: Community Engagement Working Group, UChicago Astrophysics, 2023 –
+      description:
+        - Coordinate outreach activities, including the South Side Science Festival and the South Side Astronomy Art Contest.
+        - Further equity and diversity initiatives in the department by organizing speaker events, bias and microaggression workshops, and refining the department code of conduct.
+    - title: PhET (Physics Education Technology) Simulations DEIB Advisory Board, 2022 – 2023
+      description:
+        - Helping inform PhET’s framework for equity and strategy plan for their DEIB in STEM Education Initiative at the University of Colorado at Boulder.
+    - title: Conference of Undergraduate Women in Physics Local Organizing Committee, 2022 – 2023
+      description:
+        - "Undergraduate Representative: Recruited potential speakers, assisted with sources for funding, helped establish organizer training on topics such as accessibility and LGBTQ+ inclusivity."
+    - title: Council of Science and Technology (CST) Student Advisory Board, 2021 – 2023
+      description:
+        - Assisting with planning and outreach for CST Physical Sciences/Engineering events, working to advance STEM literacy at Princeton and beyond.
+
+# --- Web-only sections below (not in the PDF CV) ---
+
+- title: Skills
+  type: list_groups
+  contents:
+    - category: Research & Analysis
+      icon: fa-solid fa-microscope
+      items:
+        - name: Spectroscopy
+        - name: Metallicity Measurement
+        - name: Stellar Populations
+        - name: Observational Astronomy
+        - name: Data Reduction
+    - category: Technical Skills
+      icon: fa-solid fa-code
+      items:
+        - name: Python
+        - name: NumPy
+        - name: Astropy
+        - name: Matplotlib
+        - name: Git
+        - name: LaTeX
+        - name: Bash
+    - category: Communication & Teaching
+      icon: fa-solid fa-comments
+      items:
+        - name: Teaching Assistantship
+        - name: Science Outreach
+        - name: Public Speaking
+
+- title: Observing Experience
+  type: list_groups
+  contents:
+    - category: Facilities
+      icon: fa-solid fa-binoculars
+      items:
+        - name: Keck LRIS
+          level: 3 nights
+        - name: MIKE
+          level: 2 nights
+
+- title: Languages
+  type: list_groups
+  contents:
+    - category: Languages
+      icon: fa-solid fa-language
+      items:
+        - name: English
+          level: Native speaker
+        - name: Spanish
+          level: Conversational
