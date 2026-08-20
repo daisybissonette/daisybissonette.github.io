@@ -46,14 +46,14 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "A summary of my teaching experience. Teaching has been one of the most rewarding parts of my work in astrophysics. I enjoy helping students build confidence by connecting abstract physics concepts to an intuitive understanding of real-world phenomena. I aim to create supportive learning environments where curiosity is encouraged!",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-outreach",
           title: "Outreach",
-          description: "Ongoing and past outreach activities I have led or participated in. I believe that sharing astronomy with the public and creating inclusive academic spaces are both essential to building a field that represents the diversity of the universe we study.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/outreach/";
