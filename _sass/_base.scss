@@ -276,10 +276,79 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* CV entry rows: year badge in a fixed left column, body text beside it.
+   The stock al-folio template used Bootstrap grid columns (col-md-2 /
+   col-md-10), which stack vertically below 768px and centre the year. These
+   rules keep the year and body side by side at every width, left-aligned. */
+.cv-entry-row {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  /* .row carries -15px side margins meant to offset column padding; the
+     columns here no longer have that padding, so cancel the margins. */
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.cv-year-col {
+  flex: 0 0 120px;
+  width: 120px;
+  max-width: 120px;
+  padding-right: 0.75rem;
+  text-align: left;
+
+  .table-cv {
+    width: auto;
+    margin: 0;
+  }
+
+  td {
+    text-align: left;
+    padding-left: 0;
+  }
+}
+
+.cv-year-badge {
+  display: inline-block;
+  white-space: normal;
+  text-align: left;
+  line-height: 1.25;
+  padding: 0.35em 0.55em;
+}
+
+.cv-body-col {
+  flex: 1 1 auto;
+  min-width: 0; /* lets long titles wrap instead of forcing the row wider */
+}
+
+/* The template indents body content by ml-md-4; that pushed the title well
+   away from the year. Pull it back so the two sit next to each other. */
+.cv-body-col > .title,
+.cv-body-col > .table-cv,
+.cv-body-col > .container-links {
+  margin-left: 0 !important;
+}
+
+@media (max-width: 575.98px) {
+  .cv-year-col {
+    flex: 0 0 92px;
+    width: 92px;
+    max-width: 92px;
+    padding-right: 0.5rem;
+  }
+
+  .cv-year-badge {
+    font-size: 0.7rem;
+    padding: 0.3em 0.45em;
+  }
+}
+
 /* Resources nav: parent link navigates to /resources/, menu opens on hover.
    The hidden button keeps Bootstrap's click-toggle available for keyboard
    and touch users, since :hover never fires on touch devices. */
 .navbar .nav-item.nav-dropdown-hover {
+  position: relative;
+
   .dropdown-caret {
     font-size: 0.7em;
     margin-left: 0.2em;
@@ -312,8 +381,6 @@ ul.task-list input[type="checkbox"] {
 /* Desktop (navbar-expand-sm breakpoint): open on hover. */
 @media (min-width: 576px) {
   .navbar .nav-item.nav-dropdown-hover {
-    position: relative;
-
     &:hover > .dropdown-menu,
     &:focus-within > .dropdown-menu {
       display: block;
@@ -327,33 +394,17 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-/* Collapsed navbar: show children inline rather than as a floating menu,
-   so both are reachable without a hover state. */
+/* Collapsed navbar (mobile): no submenu. "Resources" behaves like every other
+   nav link and goes to /resources/, which lists both sections as cards. This
+   avoids a cramped four-item stack where "Resources" and "All Resources" read
+   as duplicates, and keeps the item styled as a nav-link rather than a
+   dropdown-item, so it matches the rest of the collapsed menu. */
 @media (max-width: 575.98px) {
   .navbar .nav-item.nav-dropdown-hover {
     .dropdown-toggle-btn,
-    .dropdown-caret {
-      display: none;
-    }
-
+    .dropdown-caret,
     > .dropdown-menu {
-      display: block;
-      position: static;
-      float: none;
-      border: 0;
-      padding: 0;
-      margin: 0;
-      background-color: transparent;
-    }
-
-    .dropdown-divider {
-      display: none;
-    }
-
-    .dropdown-item {
-      padding-right: 0;
-      font-size: 0.95em;
-      opacity: 0.85;
+      display: none !important;
     }
   }
 }

@@ -23,17 +23,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: University of Chicago in Chicago, IL (2023 –)
+    - year: "2023 –"
+      title: University of Chicago in Chicago, IL
       description:
         - Ph.D. candidate in Astronomy and Astrophysics, expected May 2028.
-    - title: Princeton University in Princeton, NJ (2019 – 2023)
+    - year: "2019 – 2023"
+      title: Princeton University in Princeton, NJ
       description:
         - A.B. degree with Honors in Astrophysical Sciences, May 2023.
 
 - title: Scientific Interests
   type: list
   contents:
-    - Stellar populations, dwarf galaxies, and near-field cosmology
+    - Stellar spectroscopy, dwarf galaxies, and near-field cosmology
 
 - title: Publications
   type: list
@@ -67,66 +69,85 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant at the University of Chicago, 2023 –
+    - year: "2023 –"
+      title: Graduate Research Assistant at the University of Chicago
       description:
-        - "Advised by Prof. Alexander Ji: Using stellar spectroscopy from the Low Resolution Imaging Spectrometer (LRIS) to constrain stellar metallicities in the dwarf galaxy Segue I. Paper in prep"
-    - title: Senior Thesis at Princeton University, 2022 – 2023
+        - "Advised by Dr. Alexander Ji: Using stellar spectroscopy from the Low Resolution Imaging Spectrometer (LRIS) to constrain stellar metallicities in the dwarf galaxy Segue I. Paper in prep"
+    - year: "2022 – 2023"
+      title: Senior Thesis at Princeton University
       description:
-        - "Advised by Prof. Jenny Greene: Determined the initial mass function of a set of early-type galaxies using spectroscopy from the MASSIVE Survey and molecular gas observations from ALMA data."
-    - title: International Internship Program (IIP) at Cardiff University, Summer 2022
+        - "Advised by Dr. Jenny Greene: Determined the initial mass function of a set of early-type galaxies using spectroscopy from the MASSIVE Survey and molecular gas observations from ALMA data."
+    - year: Summer 2022
+      title: International Internship Program (IIP) at Cardiff University
       description:
         - "Advised by Dr. Timothy Davis: Determined the star formation efficiency for a sample of 13 galaxies using ALMA observations of CO(1-0) emission with results that further the ability to constrain dark matter distributions of these galaxies."
-    - title: Junior Independent Research at Princeton University, 2021 – 2022
+    - year: "2021 – 2022"
+      title: Junior Independent Research at Princeton University
       description:
-        - "Undergraduate Summer Research Program (USRP): Advised by Prof. Elena Murchikova and Prof. Neta Bahcall: Analyzed spectral data from the Neutron Star Interior Composition Explorer (NICER) mission to measure x-ray variability at SgrA* during the S02 star flyby."
-    - title: Research and Development Intern at NuMED For Children Inc., Summer 2020
+        - "Undergraduate Summer Research Program (USRP): Advised by Dr. Elena Murchikova and Dr. Neta Bahcall: Analyzed spectral data from the Neutron Star Interior Composition Explorer (NICER) mission to measure x-ray variability at SgrA* during the S02 star flyby."
+    - year: Summer 2020
+      title: Research and Development Intern at NuMED For Children Inc.
       description:
         - Worked directly with the Head of R&D on NuMED’s international team to develop of a new pediatric cardiac stent design that received FDA approval in December 2021.
 
 - title: Talks & Posters
   type: time_table
   contents:
-    - title: "Dwarf Galaxies II: Galactic Frontiers Conference, June 2025"
+    - year: June 2025
+      title: "Dwarf Galaxies II: Galactic Frontiers Conference"
       description:
         - Poster, Dartmouth College, Hanover, NH.
-    - title: Small Galaxies, Cosmic Questions II, August 2024
+    - year: August 2024
+      title: Small Galaxies, Cosmic Questions II
       description:
         - Poster, Durham, UK.
-    - title: First Stars VII Conference, May 2024
+    - year: May 2024
+      title: First Stars VII Conference
       description:
         - Flash Talk, New York, NY.
-    - title: 241st American Astronomical Society Meeting, January 2023
+    - year: January 2023
+      title: 241st American Astronomical Society Meeting
       description:
         - Poster, Seattle, WA.
-    - title: 2022 International Internship Program Research Symposium, August 2022
+    - year: August 2022
+      title: 2022 International Internship Program Research Symposium
       description:
         - Poster, Princeton University.
-    - title: Summer Star Formation Meeting, July 2022
+    - year: July 2022
+      title: Summer Star Formation Meeting
       description:
         - Contributed Talk, Cardiff University.
-    - title: Junior Paper Research Symposium, May 2022
+    - year: May 2022
+      title: Junior Paper Research Symposium
       description:
         - Contributed Talk, Princeton University.
-    - title: Conference of Undergraduate Women in Physics, January 2022
+    - year: January 2022
+      title: Conference of Undergraduate Women in Physics
       description:
         - Virtual Poster, Rutgers University.
-    - title: USRP Astrophysics Summer Research Symposium, August 2021
+    - year: August 2021
+      title: USRP Astrophysics Summer Research Symposium
       description:
         - Contributed Talk, Princeton University.
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Undergraduate Research Mentor at the University of Chicago, 2026
+    - year: 2026
+      title: Undergraduate Research Mentor at the University of Chicago
       description:
         - "Jacob Mascort (DePaul University), through the SkAI Institute SEED Program."
         - "Hexi Jin (University of Chicago), undergraduate research in the Department of Astronomy and Astrophysics."
-    - title: "Graduate Teaching Assistant at the University of Chicago: ASTR12600: Mass, Energy, Space, and Time, Fall 2023; ASTR12700: Galaxies, Winter 2024."
+    - year: "2023 – 2024"
+      title: Graduate Teaching Assistant at the University of Chicago
       description:
+        - "ASTR12600: Mass, Energy, Space, and Time, Fall 2023; ASTR12700: Galaxies, Winter 2024."
         - Led laboratory sections focused on quantitative and problem-solving skills in physics, astronomy, and math topics
         - Held weekly office hours, graded assignments and lab reports
-    - title: "Undergraduate Teaching Assistant at Princeton University: AST203: The Universe, Spring 2022."
+    - year: Spring 2022
+      title: Undergraduate Teaching Assistant at Princeton University
       description:
+        - "AST203: The Universe."
         - Invited by the department to assist with the introductory astronomy course
         - Held weekly office hours and problem sessions, graded homework and exams
         - Led monthly observing sessions for students
@@ -134,20 +155,34 @@
 - title: Service and Outreach
   type: time_table
   contents:
-    - title: Lifelong Learning Talk at Chicago Public Library, November 2023
+    - year: November 2024 –
+      title: Astronomy Conversations at Adler Planetarium
+      description:
+        - Volunteer presenter in Adler's Space Visualization Lab, discussing current astronomy research with museum visitors.
+    - year: "2024 – 2025"
+      title: STEM Pen Pal Programs
+      description:
+        - "UChicago Physical Sciences Division Pen Pal Program: year-long letter exchange pairing PSD graduate students with students at local schools."
+        - "Letters to a Pre-Scientist: national program pairing middle school students with STEM professionals by mail."
+    - year: November 2023
+      title: Lifelong Learning Talk at Chicago Public Library
       description:
         - Interactive lecture for senior citizens about the role of spectroscopy in astronomy at Chicago’s Blackstone Public Library.
-    - title: Community Engagement Working Group, UChicago Astrophysics, 2023 –
+    - year: "2023 –"
+      title: Community Engagement Working Group, UChicago Astrophysics
       description:
         - Coordinate outreach activities, including the South Side Science Festival and the South Side Astronomy Art Contest.
         - Further equity and diversity initiatives in the department by organizing speaker events, bias and microaggression workshops, and refining the department code of conduct.
-    - title: PhET (Physics Education Technology) Simulations DEIB Advisory Board, 2022 – 2023
+    - year: "2022 – 2023"
+      title: PhET (Physics Education Technology) Simulations DEIB Advisory Board
       description:
         - Helping inform PhET’s framework for equity and strategy plan for their DEIB in STEM Education Initiative at the University of Colorado at Boulder.
-    - title: Conference of Undergraduate Women in Physics Local Organizing Committee, 2022 – 2023
+    - year: "2022 – 2023"
+      title: Conference of Undergraduate Women in Physics Local Organizing Committee
       description:
         - "Undergraduate Representative: Recruited potential speakers, assisted with sources for funding, helped establish organizer training on topics such as accessibility and LGBTQ+ inclusivity."
-    - title: Council of Science and Technology (CST) Student Advisory Board, 2021 – 2023
+    - year: "2021 – 2023"
+      title: Council of Science and Technology (CST) Student Advisory Board
       description:
         - Assisting with planning and outreach for CST Physical Sciences/Engineering events, working to advance STEM literacy at Princeton and beyond.
 
@@ -161,7 +196,6 @@
       items:
         - name: Spectroscopy
         - name: Metallicity Measurement
-        - name: Stellar Populations
         - name: Observational Astronomy
         - name: Data Reduction
     - category: Technical Skills

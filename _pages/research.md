@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Stellar Metallicities in Ultra-Faint Dwarf Galaxies
 
-As a graduate student in the Department of Astronomy and Astrophysics at the University of Chicago, advised by Prof. Alexander Ji, I study the **smallest galaxies in the universe**.  
+As a graduate student in the Department of Astronomy and Astrophysics at the University of Chicago, advised by Dr. Alexander Ji, I study the **smallest galaxies in the universe**.  
 
 My recent work focuses on the **ultra-faint dwarf galaxy Segue 1**, using **Low Resolution Imaging Spectrometer (LRIS)** spectroscopy to measure stellar metallicities and reconstruct its **metallicity distribution function (MDF)** ([arXiv:2605.12810](https://arxiv.org/abs/2605.12810)).  
 
@@ -21,7 +21,7 @@ I also have contributed to the analysis of the Milky Way satellite **Ursa Major 
 
 ## Senior Thesis — The Initial Mass Function of Early-Type Galaxies
 
-At **Princeton University**, I investigated the **initial mass function (IMF)** of massive elliptical galaxies using spectroscopy from the **MASSIVE Survey** and molecular gas observations from **ALMA**, advised by **Prof. Jenny Greene**.  
+At **Princeton University**, I investigated the **initial mass function (IMF)** of massive elliptical galaxies using spectroscopy from the **MASSIVE Survey** and molecular gas observations from **ALMA**, advised by **Dr. Jenny Greene**.  
 
 ---
 

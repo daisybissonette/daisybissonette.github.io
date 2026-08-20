@@ -18,6 +18,8 @@ As part of the **Community Engagement Working Group** in the Department of Astro
 
 I gave a **Lifelong Learning Talk** at Chicago’s **Blackstone Public Library**, where I led an interactive lecture for senior citizens about how astronomers use spectroscopy to study the stars and galaxies. I am also an [Astronomy Conversations](https://www.adlerplanetarium.org/events/astronomy-conversations/) volunteer at **Adler Planetarium**. 
 
+During the 2024–2025 year I was a STEM pen pal through both the UChicago Physical Sciences Division [Pen Pal Program](https://physicalsciences.uchicago.edu/about/diversity-inclusion/programs-and-events/pen-pal-program-ppp/) and [Letters to a Pre-Scientist](https://prescientist.org/penpal-program/), exchanging letters with K–12 students about science careers and paths through higher education.
+
 ---
 
 ## Past Outreach and Equity-focused Work

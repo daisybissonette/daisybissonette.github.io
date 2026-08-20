@@ -76,15 +76,12 @@ _styles: >
     <div class="resource-card">
       <h3><a href="{{ '/resources/hs/' | relative_url }}">High School</a></h3>
       <div class="card-who">Applying to college</div>
-      <p>Applying to and paying for undergrad, plus science opportunities beforehand.</p>
+      <p>Applying to and paying for undergrad, with New York State options alongside national ones.</p>
       <ul>
         <li><strong>Application fee waivers</strong> — eligibility and how to request one</li>
-        <li><strong>QuestBridge</strong> — National College Match and College Prep Scholars</li>
-        <li><strong>Scholarships</strong> — New York State and national</li>
+        <li><strong>Scholarships</strong> — New York State, local, and national</li>
         <li><strong>Fly-in programs</strong> — free campus visits</li>
-        <li><strong>Summer research</strong> — free and stipended STEM programs</li>
-        <li><strong>Free learning</strong> — textbooks, courses, coding, astronomy</li>
-        <li><strong>Competitions</strong> — olympiads and science fairs</li>
+        <li><strong>Free learning</strong> — courses, textbooks, and coding</li>
       </ul>
       <div class="card-cta">
         <a href="{{ '/resources/hs/' | relative_url }}">Open High School resources →</a>
@@ -98,13 +95,13 @@ _styles: >
       <div class="card-who">In college or applying to grad school</div>
       <p>Graduate school applications, funding, and research.</p>
       <ul>
-        <li><strong>Grad application fee waivers</strong> — four routes to one</li>
-        <li><strong>Preview &amp; pre-application programs</strong> — funded campus visits</li>
-        <li><strong>Bridge programs</strong> — APS, Cal-Bridge, Fisk–Vanderbilt</li>
-        <li><strong>GRE &amp; program requirements</strong> — including a spreadsheet of current policies</li>
-        <li><strong>Reading on grad school</strong> — guides and first-hand accounts</li>
-        <li><strong>Fellowships</strong> — undergraduate and graduate</li>
-        <li><strong>Research &amp; societies</strong> — REUs, tools, professional organizations</li>
+        <li><strong>Application fee waivers</strong> — four routes, including BigTen FreeApp</li>
+        <li><strong>Preview &amp; bridge programs</strong> — funded campus visits and pathway programs</li>
+        <li><strong>GRE &amp; program requirements</strong> — spreadsheet of current policies by program</li>
+        <li><strong>Reading &amp; notes on the process</strong> — guides and what I'd pass on</li>
+        <li><strong>Fellowships</strong> — undergraduate and graduate funding</li>
+        <li><strong>Research resources</strong> — finding REUs, and tools of the trade</li>
+        <li><strong>Mentorship</strong></li>
       </ul>
       <div class="card-cta">
         <a href="{{ '/resources/he/' | relative_url }}">Open Higher Education resources →</a>
