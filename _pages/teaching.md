@@ -2,11 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: A summary of my teaching experience. Teaching has been one of the most rewarding parts of my work in astrophysics. I enjoy helping students build confidence by connecting abstract physics concepts to an intuitive understanding of real-world phenomena. I aim to create supportive learning environments where curiosity is encouraged!
-
 nav: true
 nav_order: 3
-
 ---
 
 ## Undergraduate Research Mentoring

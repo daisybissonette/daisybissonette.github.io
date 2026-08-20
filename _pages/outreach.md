@@ -2,7 +2,6 @@
 layout: page
 title: Outreach
 permalink: /outreach/
-description: Ongoing and past outreach activities I have led or participated in. I believe that sharing astronomy with the public and creating inclusive academic spaces are both essential to building a field that represents the diversity of the universe we study. 
 nav: true
 nav_order: 4
 display_categories: []
