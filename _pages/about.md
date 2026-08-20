@@ -32,6 +32,6 @@ I measure stellar metallicities in ultra-faint dwarf galaxies to study the earli
 
 I also work on access to science education. I've served on a DEIB advisory board for [PhET STEM education tools](/outreach/) used by millions of students, hosted a virtual department open house for prospective PhD students at UChicago, tutored for over six years, and current focus on running public science events on Chicago's South Side. The [resources](/resources/) pages here collect what I've learned about fee waivers, funding, and applications.
 
-Looking beyond my PhD, I am broadly interested in roles that combine technical analysis with public impact, in industry or policy. Feel free to [get in touch](/contact/).
+Looking beyond my PhD, I am broadly interested in roles that combine technical analysis with public impact, in industry or policy. Feel free to <a href="mailto:{{ site.data.socials.email | encode_email }}">get in touch</a>.
 
 Outside of research, I love to run, kayak, tend to my community garden plot, and work on my watercolor painting skills.

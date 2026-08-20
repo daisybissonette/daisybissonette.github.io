@@ -8,7 +8,7 @@ toc:
 ---
 
 <p>
-  Deadlines and eligibility change yearly. If something here is out of date, <a href="/contact/">let me know</a>.
+  Deadlines and eligibility change yearly. If something here is out of date, <a href="mailto:{{ site.data.socials.email | encode_email }}">let me know</a>.
 </p>
 
 <hr>

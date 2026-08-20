@@ -112,5 +112,5 @@ _styles: >
 <hr>
 
 <p>
-  Deadlines and eligibility change yearly. Confirm details on each program's own site. If something is out of date or worth adding, <a href="{{ '/contact/' | relative_url }}">let me know</a>.
+  Deadlines and eligibility change yearly. Confirm details on each program's own site. If something is out of date or worth adding, <a href="mailto:{{ site.data.socials.email | encode_email }}">let me know</a>.
 </p>
