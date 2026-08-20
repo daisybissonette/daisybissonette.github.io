@@ -18,7 +18,7 @@
     - name: Email
       value: dbissonette@uchicago.edu
     - name: LinkedIn
-      value: linkedin.com/in/daisybissonette
+      value: <a href="https://www.linkedin.com/in/daisybissonette" target="_blank" rel="noopener noreferrer">linkedin.com/in/daisybissonette</a>
 
 - title: Education
   type: time_table

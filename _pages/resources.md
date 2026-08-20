@@ -2,7 +2,6 @@
 layout: page
 title: Resources
 permalink: /resources/
-description: Fee waivers, funding, applications, and free learning resources.
 nav: false
 _styles: >
   .resource-card {

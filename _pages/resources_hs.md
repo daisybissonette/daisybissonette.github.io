@@ -2,7 +2,6 @@
 layout: page
 title: High School
 permalink: /resources/hs/
-description: 
 nav: false
 toc:
   sidebar: left

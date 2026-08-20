@@ -716,6 +716,12 @@ footer.sticky-bottom {
   }
 }
 
+/* Bold the main page heading (Teaching, Outreach, CV, Research, Resources).
+   Scoped to .post-header so blog post listings keep the theme's own weight. */
+.post-header > .post-title {
+  font-weight: 700;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;

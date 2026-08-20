@@ -2,7 +2,6 @@
 layout: page
 title: Higher Education
 permalink: /resources/he/
-description: Fee waivers, preview programs, fellowships, and reading on applying to graduate school.
 nav: false
 toc:
   sidebar: left
