@@ -88,8 +88,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-submitted-my-first-first-author-paper-of-graduate-school-check-it-out-here",
-          title: 'I submitted my first first-author paper of graduate school! Check it out here....',
+            },},{id: "news-i-published-my-first-first-author-paper-of-graduate-school-check-it-out-here-published-version-doi",
+          title: 'I published my first first-author paper of graduate school! Check it out here...',
           description: "",
           section: "News",},{id: "news-i-am-starting-to-add-information-and-links-to-the-high-school-and-higher-ed-resources-pages",
           title: 'I am starting to add information and links to the high school and...',
