@@ -10,11 +10,11 @@ nav_order: 2
 
 As a graduate student in the Department of Astronomy and Astrophysics at the University of Chicago, advised by Dr. Alexander Ji, I study the **smallest galaxies in the universe**.  
 
-My recent work focuses on the **ultra-faint dwarf galaxy Segue 1**, using **Low Resolution Imaging Spectrometer (LRIS)** spectroscopy to measure stellar metallicities and reconstruct its **metallicity distribution function (MDF)** ([arXiv:2605.12810](https://arxiv.org/abs/2605.12810)).  
+My recent work focuses on the **ultra-faint dwarf galaxy Segue 1**, using **Low Resolution Imaging Spectrometer (LRIS)** spectroscopy to measure stellar metallicities and reconstruct its **metallicity distribution function (MDF)** ([arXiv:2605.12810](https://arxiv.org/abs/2605.12810); [DOI](https://doi.org/10.33232/001c.172763)).  
 
 Currently, I am also contributing to the **re-calibration of the Ca II triplet (CaT)** and **Ca II K (CaK)** metallicity indicators, refining empirical relations that connect spectroscopic indices to [Fe/H].
 
-I also have contributed to the analysis of the Milky Way satellite **Ursa Major III/UNIONS 1**, combining **Pan-STARRS1 DR2 photometry** and LRIS spectroscopy to determine metallicities for 12 member stars and place constraints on the system's metallicity dispersion ([arXiv:2510.02431](https://arxiv.org/abs/2510.02431)).   
+I also have contributed to the analysis of the Milky Way satellite **Ursa Major III/UNIONS 1**, combining **Pan-STARRS1 DR2 photometry** and LRIS spectroscopy to determine metallicities for 12 member stars and place constraints on the system's metallicity dispersion ([arXiv:2510.02431](https://arxiv.org/abs/2510.02431); [DOI](https://doi.org/10.3847/2041-8213/ae29b8)).   
 
 ---
 
